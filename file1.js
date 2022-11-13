@@ -1,1 +1,2 @@
-view
+Nice place to live
+estate
